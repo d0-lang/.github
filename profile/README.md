@@ -1,7 +1,5 @@
 # d0
 
-d0 makes DaDict, and the open pieces behind it:
-
 - **DaDict** is a browser extension for language learners: click a word on any page and see what it means there, with phrases and grammar from the sentence around it.
 - **The dictionary server** answers those lookups. It is open source, so anyone can run their own; **DaDict public** at `https://server.dadict.com` is the one we run.
 - **The protocol** between the two is open too, so other apps can use any server.
